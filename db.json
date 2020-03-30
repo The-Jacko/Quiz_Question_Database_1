@@ -16,15 +16,15 @@
         {
             "question": "Strawberries are your fav",
             "type": "true false",
-            "choices": [true, false],
-            "answer": true,
+            "choices": ["true", "false"],
+            "answer": "true",
             "reason": "Strawberries!"
         },
         {
             "question": "You love chocolate",
             "type": "true false",
-            "choices": [true, false],
-            "answer": false,
+            "choices": ["true", "false"],
+            "answer": "false",
             "reason": "Not all the time"
         },
         {
@@ -67,15 +67,15 @@
         {
             "question": "You like the new corvette",
             "type": "true false",
-            "choices": [true, false],
-            "answer": true,
+            "choices": ["true", "false"],
+            "answer": "true",
             "reason": "it looks like a ferrari!"
         },
         {
             "question": "Audi R8 is your fav or all time",
             "type": "true false",
-            "choices": [true, false],
-            "answer": false,
+            "choices": ["true", "false"],
+            "answer": "false",
             "reason": "Lambo!!!"
         },
         {
