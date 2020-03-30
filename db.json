@@ -12,7 +12,42 @@
             "choices": [18, 19, 20, 21],
             "answer": 21,
             "reason": "You're 21!!!"
-        }
+        },
+        {
+            "question": "Strawberries are your fav",
+            "type": "true false",
+            "choices": [true, false],
+            "answer": true,
+            "reason": "Strawberries!"
+        },
+        {
+            "question": "You love chocolate",
+            "type": "true false",
+            "choices": [true, false],
+            "answer": false,
+            "reason": "Not all the time"
+        },
+        {
+            "question": "Who's the best?",
+            "type": "short answer",
+            "choices": [],
+            "answer": "sarah",
+            "reason": "Cmon, your best friend???"
+        },
+        {
+            "question": "How many sisters do you have?",
+            "type": "short answer",
+            "choices": [],
+            "answer": 2,
+            "reason": "Winnie and Janie???"
+        },
+        {
+            "question": "which is squidward?",
+            "type": "pictures",
+            "choices": ["./pictures/handsome_squidward.jpg", "https://vignette.wikia.nocookie.net/spongebob/images/d/d7/SpongeBob_stock_art.png/revision/latest?cb=20190921125147"],
+            "answer": "./pictures/handsome_squidward.jpg",
+            "reason": "Look at him!! he's handsome!"
+        },
     ],
 
     "quiz2": [{
@@ -28,7 +63,35 @@
             "choices": ["MJ", "Kobe", "Lebron", "KD", "Curry"],
             "answer": "Kobe",
             "reason": "KOBEEE!!!!!"
-        }
+        },
+        {
+            "question": "You like the new corvette",
+            "type": "true false",
+            "choices": [true, false],
+            "answer": true,
+            "reason": "it looks like a ferrari!"
+        },
+        {
+            "question": "Audi R8 is your fav or all time",
+            "type": "true false",
+            "choices": [true, false],
+            "answer": false,
+            "reason": "Lambo!!!"
+        },
+        {
+            "question": "Who's your day 1?",
+            "type": "short answer",
+            "choices": [],
+            "answer": "rj",
+            "reason": "its raffy"
+        },
+        {
+            "question": "What do you wish to purchase one day?",
+            "type": "short answer",
+            "choices": [],
+            "answer": "lambo",
+            "reason": "Vroom Vroom, your fav car?"
+        },
     ]
 
 }
