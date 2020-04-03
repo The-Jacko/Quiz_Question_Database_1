@@ -53,7 +53,7 @@
             "type": "fill in",
             "choices": ["A(n)", "is an instantiation of a"],
             "answer": ["object", "class"],
-            "reason": "An object instantiates a class"
+            "reason": ["its an object", "its a class"]
         }
     ],
 
