@@ -52,7 +52,7 @@
             "question": "Fill in the blank",
             "type": "fill in",
             "choices": [
-                ["A(n)", "is an instantiation of a"]
+                ["A(n)", "", "is an instantiation of a", ""]
             ],
             "answer": ["object", "class"],
             "reason": ["its an object", "its a class"]
