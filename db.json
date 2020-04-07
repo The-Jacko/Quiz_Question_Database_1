@@ -51,7 +51,19 @@
         {
             "question": "Fill in the blank",
             "type": "fill in",
-            "choices": ["A(n)", "is an instantiation of a"],
+            "choices": [
+                ["A(n)", "is an instantiation of a"]
+            ],
+            "answer": ["object", "class"],
+            "reason": ["its an object", "its a class"]
+        },
+        {
+            "question": "Fill in the blank",
+            "type": "fill in",
+            "choices": [
+                ["Strawberry", "", "is the best."],
+                ["", "is the best.", ""]
+            ],
             "answer": ["object", "class"],
             "reason": ["its an object", "its a class"]
         }
