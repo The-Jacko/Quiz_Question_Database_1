@@ -64,8 +64,8 @@
                 ["Strawberry", "", "is the best."],
                 ["", "is the best.", ""]
             ],
-            "answer": ["object", "class"],
-            "reason": ["its an object", "its a class"]
+            "answer": ["object", "class", "idk"],
+            "reason": ["its an object", "its a class", "idk"]
         }
     ],
 
