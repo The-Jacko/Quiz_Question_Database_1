@@ -90,7 +90,7 @@
                 ["CSS styles comprise of one or more", "", ":", "", "pairs."]
             ],
             "answer": ["key", "value"],
-            "reason": ["CSS utilizes key:value pairs to modify property of elements.", "CSS has key:value pairs that denotes the property to change and what to change it to."]
+            "reason": ["CSS utilizes key:value pairs to modify property of elements", "CSS has key:value pairs that denotes the property to change and what to change it to"]
         },
         {
             "question": "What tag do you use to create CSS styles within your HTML file? (use <> notation)",
@@ -129,7 +129,7 @@
         {
             "question": "What does the following javascript code compute?",
             "type": "short answer",
-            "choices": "./assets/pictures/a*a+b.png",
+            "choices": "./assets/pictures/webDev/a*a+b.png",
             "answer": 11,
             "reason": "3*3 = 9+2 = 11"
         },
