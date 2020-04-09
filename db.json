@@ -101,7 +101,7 @@
             "question": "What is the tag of the following HTML element: <h1 id='test' class='tag'>Hello World</h1>",
             "type": "short answer",
             "choices": "",
-            "answer": "h1",
+            "answer": "<h1>",
             "reason": "Tags are defined inbetween the <> syntax. In this case it is <h1>"
         },
         {
@@ -142,7 +142,7 @@
         {
             "question": "Which one of the following produces the largest text?",
             "type": "pictures",
-            "choices": ["./assets/pictures/h2.png", "./assets/pictures/h1.png", "./assets/pictures/h4.png", "./assets/pictures/h3.png"],
+            "choices": ["./assets/pictures/h2.png", "./assets/pictures/h1.png", "./assets/pictures/h4.png", "./assets/pictures/h5.png"],
             "answer": "./assets/pictures/h1.png",
             "reason": "<h1> produces the largest font size, which gets smaller as the numbers increase."
         },
@@ -160,7 +160,7 @@
                 ["CSS styles comprise of one or more", "", ":", "", "pairs."]
             ],
             "answer": ["key", "value"],
-            "reason": "CSS utilizes key:value pairs to modify property of elements."
+            "reason": ["CSS utilizes key:value pairs to modify property of elements.", "CSS has key:value pairs that denotes the property to change and what to change it to."]
         },
         {
             "question": "What tag do you use to create CSS styles within your HTML file? (use <> notation)",
@@ -180,7 +180,7 @@
             "question": "Which one of the following creates a bulleted list?",
             "type": "pictures",
             "choices": ["./assets/pictures/tr.png", "./assets/pictures/list.png", "./assets/pictures/ul.png", "./assets/pictures/ol.png"],
-            "answer": "./assets/pictures/ol.png",
+            "answer": "./assets/pictures/ul.png",
             "reason": "<ol> produces an ordered list that contains incrementing numbers."
         },
         {
@@ -191,7 +191,7 @@
                 ["const response = ", "", "fetch(url)"],
                 ["const data = ", "", "response.json()"],
                 ["return data"],
-                [";"]
+                ["}"]
             ],
             "answer": ["async", "await", "await"],
             "reason": ["You need to declare that the function is an async function", "You need to use the keyword await to wait for the response to come back", "You need to use the keyword await to wait for the data to be parsed into json format"]
@@ -206,7 +206,7 @@
         {
             "question": "What should __someKeyword__ be replaced by to make the following code run only after the page is fully loaded?",
             "type": "short answer",
-            "choices": "./assets/pictures/a*a+b.png",
+            "choices": "./assets/pictures/domcontentloaded.png",
             "answer": "DOMContentLoaded",
             "reason": "DOMContentLoaded tells the document to only run the javascript code once the HTML file is fully loaded."
         },
@@ -215,7 +215,7 @@
             "type": "fill in",
             "choices": [
                 ["<form>"],
-                ["<input type=", "", "></input"],
+                ["<input type=", "", "></input>"],
                 ["</form>"]
             ],
             "answer": ["text"],
