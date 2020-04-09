@@ -69,49 +69,6 @@
         }
     ],
 
-    "quiz2": [{
-            "question": "What is your favorite car?",
-            "type": "multiple choice",
-            "choices": ["lambo", "ferrari", "bugatti", "audi"],
-            "answer": "lambo",
-            "reason": "They look like jets!"
-        },
-        {
-            "question": "Who is your favorite basketball player?",
-            "type": "multiple choice",
-            "choices": ["MJ", "Kobe", "Lebron", "KD", "Curry"],
-            "answer": "Kobe",
-            "reason": "KOBEEE!!!!!"
-        },
-        {
-            "question": "You like the new corvette",
-            "type": "true false",
-            "choices": ["true", "false"],
-            "answer": "true",
-            "reason": "it looks like a ferrari!"
-        },
-        {
-            "question": "Audi R8 is your fav or all time",
-            "type": "true false",
-            "choices": ["true", "false"],
-            "answer": "false",
-            "reason": "Lambo!!!"
-        },
-        {
-            "question": "Who's your day 1?",
-            "type": "short answer",
-            "choices": [],
-            "answer": "rj",
-            "reason": "its raffy"
-        },
-        {
-            "question": "What do you wish to purchase one day?",
-            "type": "short answer",
-            "choices": [],
-            "answer": "lambo",
-            "reason": "Vroom Vroom, your fav car?"
-        }
-    ],
     "quiz1": [{
             "question": "What does HTML stand for?",
             "type": "multiple choice",
