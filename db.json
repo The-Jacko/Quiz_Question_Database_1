@@ -130,7 +130,7 @@
             "question": "What does the following javascript code compute?",
             "type": "short answer",
             "choices": "./assets/pictures/webDev/a*a+b.png",
-            "answer": 11,
+            "answer": "11",
             "reason": "3*3 = 9+2 = 11"
         },
         {
